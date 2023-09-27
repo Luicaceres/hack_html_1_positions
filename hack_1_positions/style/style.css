@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background-color: #fffFFF;
+
+}
+
+.gris{
+    width: 100%;
+    height: 120px;
+    background-color: #93B5C9;  
+}
+
+.rojo_Grande{
+    height: 170px;
+    background-color: #AB2849;  
+}
+
+.rojo_derecha{
+
+    height: 90px;
+    margin: 20px 0 0 200px;
+    background-color: #AB2849;
+
+}
+
+.rojo_abajo{
+ 
+    height: 90px;
+    margin: 20px 30px 0 30px;
+    background-color: #AB2849;
+
+}
